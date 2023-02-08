@@ -1,6 +1,7 @@
 ## user api
 
 http://localhost/provab_test/index.php/api/user/adduser - create user
+
 http://localhost/provab_test/index.php/api/user/create - login (based on token)
 
 ## Travel list api
